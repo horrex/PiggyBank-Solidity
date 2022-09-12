@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
-import './PiggyBank.sol';
+import "./PiggyBank.sol";
 
 contract TimePiggyBank is PiggyBank {
     uint64 public endTime;
