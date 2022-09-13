@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 import "./IPiggyBankObserver.sol";
-import "./ObservablePiggyBankFactory.sol";
 
 contract PiggyBankMaster is IPiggyBankObserver {
     struct PiggyBankDetails {
