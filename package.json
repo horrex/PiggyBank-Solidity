@@ -1,0 +1,15 @@
+{
+  "name": "piggybank-solidity",
+  "version": "0.1.0",
+  "description": "Piggy Bank (Solidity)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.11.1"
+  }
+}
